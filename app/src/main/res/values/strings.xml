@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">As_4</string>
+    <string name="candidate_list">Candidate List</string>
+    <string name="candidate_name">Candidate Name</string>
+    <string name="votes">Votes</string>
+    <string name="candidate_1">Candidate 1</string>
+    <string name="_0">0</string>
+    <string name="candidate_2">Candidate 2</string>
+    <string name="_02">0</string>
+    <string name="candidate_3">Candidate 3</string>
+    <string name="_03">0</string>
+    <string name="go_for_voting">Go For Voting</string>
+    <string name="vote_please">Vote Please</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="id">ID</string>
+    <string name="enter_your_id">Enter Your ID</string>
+    <string name="textview">TextView</string>
+    <string name="vote">vote</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="candidate_name1">Candidate Name</string>
+</resources>
